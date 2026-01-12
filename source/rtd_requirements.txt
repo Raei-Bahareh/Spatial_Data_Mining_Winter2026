@@ -1,6 +1,7 @@
 jupyter-book
 sphinx
 sphinx-book-theme
+sphinx-thebe
 jupyter-sphinx
 pydata-sphinx-theme
 IPython
