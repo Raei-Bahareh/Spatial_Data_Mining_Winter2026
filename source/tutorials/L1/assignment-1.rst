@@ -2,7 +2,7 @@ Tasks
 ==========
 
 .. important::
-    Please complete this assignment **by the end of January 20 (06:00 pm on 20 January 2025)**.
+    Please complete this assignment **by the end of January 18 (06:00 pm on 18 January 2026)**.
 
 The assignment for this week has three parts.
 First, you will **set up your Python Environment and GitHub account**.
@@ -25,7 +25,7 @@ Part 1 - Python Environment Setup and GitHub Account Creation
     
     You don’t necessarily need to install Anaconda to complete the assignments. There are alternative options available:
     
-    - **Visual Studio Code (VS Code)**: You can use VS Code as an alternative to Anaconda. Check out detailed tutorial on setting up VS Code, Python, and Git `here <https://spatial-data-mining-winter2025.readthedocs.io/en/latest/notebooks/L1/vs_code.html>`__
+    - **Visual Studio Code (VS Code)**: You can use VS Code as an alternative to Anaconda. Check out detailed tutorial on setting up VS Code, Python, and Git `here <https://spatial-data-mining-winter2026.readthedocs.io/en/latest/notebooks/L1/vs_code.html>`__
     - **Google Colab**: If you prefer not to install anything locally, you can run all your Python code and markdown tasks interactively in the browser using Google Colab.
 
     Regardless of the platform you choose, **ensure you use code versioning and connect your work to GitHub**. This is essential for maintaining your project and submitting your assignments correctly.
@@ -44,7 +44,7 @@ Part 2 - D2L Setup and Dropbox Submission
 2. Visit the **Dropbox** page available on the course D2L website.
 3. Submit  your **full name, GitHub username, and link to your GitHub profile** in the ``Kick-off Assignment`` section.
 
-For example, ``Reza Safarzadeh, safarzadeh-reza, https://github.com/safarzadeh-reza``.
+For example, ``Bahareh Raei, Raei-Bahareh, https://github.com/Raei-Bahareh``.
 
 This will help us know you were able to create your account, that you have also figured out how to use GitHub, and we'll know who is who on GitHub :).
 
@@ -59,7 +59,7 @@ Part 3 - Start Kick-off Assignment on GitHub Classroom
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of kick-off assignment by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/DYG7-UzZ>`__.
+    **You can start working on your copy of kick-off assignment by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/wKcSr22Y>`__.
 
 
 1. Start the coding assignment by accepting the GitHub Classroom assignment (click on the link above).
