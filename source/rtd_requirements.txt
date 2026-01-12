@@ -17,6 +17,6 @@ pandas-bokeh
 mlxtend
 imageio
 nbconvert
-sphinxcontrib-youtube==1.2.0
+sphinxcontrib-youtube
 geopandas
 plotly
