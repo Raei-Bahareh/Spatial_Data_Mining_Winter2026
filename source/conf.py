@@ -19,13 +19,13 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "ENGO645/537-Lab-2025"
-author = "Reza Safarzadeh"
+project = "ENGO645/537-Lab-2026"
+author = "Bahareh Raei"
 
 # The short X.Y version
-version = "2025"
+version = "2026"
 # The full version, including alpha/beta/rc tags
-release = "ENGO645/537-Labs-2025"
+release = "ENGO645/537-Labs-2026"
 
 # Set documentation language
 language="en"
@@ -107,7 +107,7 @@ html_title = ""
 
 html_theme_options = {
     # "external_links": [],
-    "repository_url": "https://github.com/safarzadeh-reza/Spatial_Data_Mining_Winter2025/",
+    "repository_url": "https://github.com/Raei-Bahareh/Spatial_Data_Mining_Winter2026/",
     "repository_branch": "master",
     "path_to_docs": "source/",
     # "twitter_url": "https://twitter.com/pythongis",
@@ -149,8 +149,8 @@ html_context = {
     "display_github": True,
     # Set the following variables to generate the resulting github URL for each page.
     # Format Template: https://{{ github_host|default("github.com") }}/{{ github_user }}/{{ github_repo }}/blob/{{ github_version }}{{ conf_py_path }}{{ pagename }}{{ suffix }}
-    "github_user": "safarzadeh-reza",
-    "github_repo": "Spatial_Data_Mining_Winter2025",
+    "github_user": "Raei-Bahareh",
+    "github_repo": "Spatial_Data_Mining_Winter2026",
     "github_version": "master/",
     "conf_py_path": "/source/",
 }
@@ -192,7 +192,7 @@ latex_documents = [
         master_doc,
         "engo645.tex",
         "engo645 Documentation",
-        "R. Safarzadeh",
+        "B. Raei",
         "manual",
     ),
 ]
