@@ -19,7 +19,7 @@ These materials have been adapted from:
 - `Version Control with Git <http://swcarpentry.github.io/git-novice/>`__
 - `GitHub Education Campus Advisors resources <https://github.com/Campus-Advisors>`__
 - `Git documentation <https://git-scm.com/about/>`__
-- `GitHub Campus Advisor materials <https://education.github.com/teachers/advisors>`__
+.. - `GitHub Campus Advisor materials <https://education.github.com/teachers/advisors>`__
 - `Geo-Python Course <https://geo-python-site.readthedocs.io/en/latest/lessons/L2/git-basics.html>`__
 - `Data Science: A First Introduction <https://datasciencebook.ca/version-control.html>`__
 
