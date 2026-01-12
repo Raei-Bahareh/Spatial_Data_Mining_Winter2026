@@ -3,7 +3,7 @@
 .. image:: img/banner/logo_3.png
     :class: dark-light
 
-Welcome to Spatial Data Mining Lab 2025!
+Welcome to Spatial Data Mining Lab 2026!
 ========================================
 
 
@@ -21,7 +21,7 @@ In the ENGO 645/537 lab series, we aim to equip you with the skills and knowledg
    From setting up your Python environment to understanding key libraries like `pandas`, `matplotlib`, and `GeoPandas`, you’ll develop essential programming skills. We’ll guide you step by step, starting with installing Python and getting your hands dirty with real data, such as community crime statistics maps. These tools will help you process, clean, and analyze datasets with ease.
 
 2. **Learn the Art of Version Control with Git and GitHub**  
-   Ever accidentally lose your project files or struggle with managing versions of your code? Version control will save you! You’ll learn how to manage your projects using Git and GitHub, create repositories, and collaborate efficiently. We’ll also introduce JupyterLab’s Git plugin and show you how to manage projects directly from your command line, so you’ll be version control-savvy by the end of the lab.
+   Ever accidentally lose your project files or struggle with managing versions of your code? Version control will save you! You’ll learn how to manage your projects using Git and GitHub, create repositories, and collaborate efficiently. We’ll also introduce JupyterLab’s Git plugin and show you how to manage projects directly from your command line, so you’ll be version control-sarvy by the end of the lab.
 
 3. **Explore Geospatial Data Using Python**  
    Spatial data isn't just numbers—it's geographic! In this lab, you’ll learn to handle geospatial data using Python. You’ll work with spatial joins, relationships, and visualizations, making it easy to display and analyze geographic datasets. Think maps, regions, and data combined in exciting and meaningful ways!
@@ -105,7 +105,7 @@ Here’s how the grading works for each lab:
 Lab Timeline
 ------------
 
-Our labs will run for 13 weeks, starting on **January 14, 2025**, and spanning the entire winter semester. New material will be posted bi-weekly, keeping our learning experience dynamic and engaging.
+Our labs will run for 13 weeks, starting on **January 12, 2026**, and spanning the entire winter semester. New material will be posted bi-weekly, keeping our learning experience dynamic and engaging.
 
 Here’s a preview of the topics we’ll cover:
 
