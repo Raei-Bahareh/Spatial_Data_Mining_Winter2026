@@ -137,42 +137,42 @@ Here’s a preview of the topics we’ll cover:
     notebooks/L1/vs_code
     tutorials/L1/assignment-1
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Assignment 1
+.. .. toctree::
+..     :maxdepth: 2
+..     :caption: Assignment 1
 
-    tutorials/L2/overview
-    tutorials/L2/libraries
-    notebooks/L2/using_pandas
-    notebooks/L2/plotting
-    tutorials/L2/tasks
+..     tutorials/L2/overview
+..     tutorials/L2/libraries
+..     notebooks/L2/using_pandas
+..     notebooks/L2/plotting
+..     tutorials/L2/tasks
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Assignment 2
+.. .. toctree::
+..     :maxdepth: 2
+..     :caption: Assignment 2
 
-    notebooks/L3/association_rules
-    notebooks/L3/geopandas
-    tutorials/L3/tasks
+..     notebooks/L3/association_rules
+..     notebooks/L3/geopandas
+..     tutorials/L3/tasks
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Assignment 3
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Assignment 3
 
-   tutorials/L4/classification
-   notebooks/L4/classification_with_python
-   tutorials/L4/tasks
+..    tutorials/L4/classification
+..    notebooks/L4/classification_with_python
+..    tutorials/L4/tasks
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Assignment 4
+.. .. toctree::
+..     :maxdepth: 2
+..     :caption: Assignment 4
 
-    tutorials/L5/clustering
-    notebooks/L5/Clustering_Geospatial_Data
-    tutorials/L5/tasks
+..     tutorials/L5/clustering
+..     notebooks/L5/Clustering_Geospatial_Data
+..     tutorials/L5/tasks
 
-.. toctree::
-    :maxdepth: 2
-    :caption: Bonus Assignment
+.. .. toctree::
+..     :maxdepth: 2
+..     :caption: Bonus Assignment
 
-    tutorials/L6/tasks
+..     tutorials/L6/tasks
