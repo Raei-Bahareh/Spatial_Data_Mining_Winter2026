@@ -1,7 +1,7 @@
 Overview
 =========
 
-This tutorial gives you some tips aboutthe data preparation and visualization using Python tools.
+This tutorial gives you some tips about the data preparation and visualization using Python tools.
 
 We will go through the data preparation and basics of data preprocessing using Python's Pandas library. 
 We will also practice basic plotting with matplotlib library, to create meaningful visualizations and perform some exploratory data visualizations.

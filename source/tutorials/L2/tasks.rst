@@ -2,7 +2,7 @@ Tasks - Assignment 1
 ==========
 
 .. important::
-    Assignment 1 is due by **06:00 PM on Wednesday, February 5th, 2025**.
+    Assignment 1 is due by **06:00 PM on Sunday, February 1st, 2026**.
 
 
 
