@@ -8,7 +8,7 @@ Tasks - Assignment 1
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Assignment 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/bhDpqfTD>`__.
+    **You can start working on your copy of Assignment 1 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/fXT_I5w2>`__.
 
 
 Note that you should not try to make changes to this copy of the exercise, 
