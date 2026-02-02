@@ -147,13 +147,13 @@ Here’s a preview of the topics we’ll cover:
     notebooks/L2/plotting
     tutorials/L2/tasks
 
-.. .. toctree::
-..     :maxdepth: 2
-..     :caption: Assignment 2
+.. toctree::
+    :maxdepth: 2
+    :caption: Assignment 2
 
-..     notebooks/L3/association_rules
-..     notebooks/L3/geopandas
-..     tutorials/L3/tasks
+    notebooks/L3/association_rules
+    notebooks/L3/geopandas
+    tutorials/L3/tasks
 
 .. .. toctree::
 ..    :maxdepth: 2

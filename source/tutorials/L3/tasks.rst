@@ -2,13 +2,13 @@ Tasks - Assignment 2
 ==========
 
 .. important::
-    Assignment 2 is due by **06:00 PM on Tuesday, February 25th, 2025**.
+    Assignment 2 is due by **06:00 PM on Sunday, February 15th, 2026**.
 
 
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Assignment 2 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/HmOpN5gk>`__.
+    **You can start working on your copy of Assignment 2 by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/ha-0m14e>`__.
 
 
 - **Note that code versioning is important and contributes to your overall grade. We expect to see your versioning history, including commits and pushes to the GitHub repository. Remember, having only one commit may result in a deduction in your marks, so make sure to maintain a clear and organized versioning record.**
