@@ -155,13 +155,13 @@ Here’s a preview of the topics we’ll cover:
     notebooks/L3/geopandas
     tutorials/L3/tasks
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Assignment 3
+.. toctree::
+   :maxdepth: 2
+   :caption: Assignment 3
 
-..    tutorials/L4/classification
-..    notebooks/L4/classification_with_python
-..    tutorials/L4/tasks
+   tutorials/L4/classification
+   notebooks/L4/classification_with_python
+   tutorials/L4/tasks
 
 .. .. toctree::
 ..     :maxdepth: 2

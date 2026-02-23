@@ -2,7 +2,7 @@ Tasks - Assignment 3
 ==========
 
 .. important::
-    Assignment 3 is due by **06:00 PM on Tuesday, March 11th, 2025**.
+    Assignment 3 is due by **06:00 PM on Sunday, March 8th, 2026**.
 
 
 
