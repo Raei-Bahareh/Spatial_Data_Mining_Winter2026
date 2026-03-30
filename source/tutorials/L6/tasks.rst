@@ -2,13 +2,13 @@ Tasks - Bonus Assignment
 ==========
 
 .. important::
-    Bonus Assignment is due by **06:00 PM on Wednesday, April 16th, 2025**.
+    Bonus Assignment is due by **06:00 PM on Sunday, April 12th, 2026**.
 
 
 
 .. admonition:: Start your assignment
 
-    **You can start working on your copy of Bonus Assignment by** `accepting the GitHub Classroom assignment <https://classroom.github.com/a/6Xo7EYF4>`__.
+    **You can start working on your copy of Bonus Assignment by** `accepting the GitHub Classroom assignment "https://classroom.github.com/a/CqeLk0KU".
 
 
 .. important::
